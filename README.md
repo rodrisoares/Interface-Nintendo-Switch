@@ -1,3 +1,3 @@
 # Interface Nintendo Switch
 
-projeto responsivo feito usando html e css
+projeto responsivo usando html e css
